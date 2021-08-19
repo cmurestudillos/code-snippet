@@ -1,0 +1,21 @@
+{
+  "name": "impresion-codigo",
+  "description": "Pequeña aplicacion para grabar fragmentos de codigo en localStorage",
+  "dependencies": {
+    "@polymer/app-storage": "^3.0.3",
+    "@polymer/iron-flex-layout": "^3.0.1",
+    "@polymer/iron-form": "^3.0.1",
+    "@polymer/paper-button": "^3.0.1",
+    "@polymer/paper-card": "^3.0.1",
+    "@polymer/paper-input": "^3.2.1",
+    "@polymer/paper-styles": "^3.0.1",
+    "@polymer/polymer": "^3.0.0"
+  },
+  "devDependencies": {
+    "@polymer/test-fixture": "^4.0.2",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "wct-mocha": "^1.0.1"
+  }
+}

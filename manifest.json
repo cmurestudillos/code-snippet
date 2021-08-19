@@ -1,0 +1,7 @@
+{
+  "name": "impresion-codigo",
+  "short_name": "impresion-codigo",
+  "description": "Pequeña aplicacion para grabar fragmentos de codigo en localStorage",
+  "start_url": "/",
+  "display": "standalone"
+}
