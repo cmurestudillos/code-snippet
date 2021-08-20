@@ -1,7 +1,7 @@
 {
   "name": "impresion-codigo",
   "description": "Pequeña aplicacion para grabar fragmentos de codigo en localStorage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "@polymer/app-layout": "^3.1.0",
     "@polymer/app-storage": "^3.0.3",
