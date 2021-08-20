@@ -10,13 +10,21 @@ class FormApp extends PolymerElement {
   static get template() {
     return html`
       <style>
+        #formulario{
+          padding: 1.5em;
+          border-radius: 1.5em;
+          box-shadow: 2px 2px 2px 2px grey;
+          margin-top: 1em;
+        }
         paper-button {
           background-color: var(--accent-color);
           color: white;
-          margin-left: 0px;
-          margin-top: 1em;
+          margin-right: 0px;
+          margin-top: 2.5em;
+          float: right;
         }  
       </style>    
+
       <iron-form id="formulario">
           <form>
             <paper-input label="Pequeña descripción ..." id="description"></paper-input>  

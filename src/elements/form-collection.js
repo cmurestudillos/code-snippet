@@ -13,6 +13,8 @@ class FormCollection extends PolymerElement {
             paper-card{
                 display: block;
                 margin-top: 1em;
+                box-shadow: 3px 3px 3px 3px grey;
+                border-radius: 1.5em;
             }
             .tright{
               text-align: right;
